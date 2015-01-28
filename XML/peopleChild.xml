@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<people>
+ <person name = 'Emina' surname = 'M.'>
+  <child name = 'Rambo' surname = 'M.'/>
+  <child name = 'Sumaher' surname = 'M.'/>
+ </person>
+ <person name = 'Naida' surname = 'D.'>
+  <child name = 'Necko' surname = 'D.'/>
+  <child name = 'Zlocko' surname = 'D.'/>
+ </person>
+ <person name = 'Nedim' surname = 'O.'>
+  <child name = 'Nada' surname = 'O.'/>
+ </person>
+ <person name = 'Adnan' surname = 'S.'>
+  <child name = 'Aida' surname = 'S.'/>
+ </person>
+ <person name = 'Hikmet' surname = 'D.'>
+  <child name = 'Necko' surname = 'D.'/>
+  <child name = 'Zlocko' surname = 'D.'/>
+ </person>
+ <person name = 'Jesenko' surname = 'G.'>
+  <child name = 'Zina' surname = 'G.'/>
+  <child name = 'Lara' surname = 'G.'/>
+  <child name = 'Necko' surname = 'D.'/>
+  <child name = 'Maja' surname = 'D.'/>
+ </person>
+</people>
